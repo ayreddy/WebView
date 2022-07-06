@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008419095887",
+    "project_id": "waib2b",
+    "storage_bucket": "waib2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008419095887:android:e1cf638fa6b1810cb7313a",
+        "android_client_info": {
+          "package_name": "com.wai.waib2b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008419095887-d4p4tsmbj2nckvlm938hbv7auss046m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1jSOPPj_TgHUA0SINYlBDIefwPQX0nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008419095887-d4p4tsmbj2nckvlm938hbv7auss046m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

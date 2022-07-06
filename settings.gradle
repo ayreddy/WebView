@@ -1,0 +1,2 @@
+rootProject.name = "WAI B2B"
+include ':app'
